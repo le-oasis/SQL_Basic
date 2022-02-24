@@ -1,7 +1,8 @@
 # SQL_Basic
 
-Hello World 
-In this tutorial, we will introduce you to a PostgreSQL sample database that you can use for learning and practicing PostgreSQL.
+Hello World, Welcome To The Oasis.
+
+* In this tutorial, we will introduce you to a PostgreSQL sample database that you can use for learning and practicing PostgreSQL.
 We will use the DVD rental database to demonstrate the features of PostgreSQL.
 
 
