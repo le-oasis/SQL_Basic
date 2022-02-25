@@ -52,7 +52,7 @@ HAVING SUM(amount) > 100
 ORDER BY SUM(amount) DESC;
 
 -- total count of customers per store
-SELECT store_id, COUNT(*) FROM customer
+SELECT store_id, COUNT(*) total_cust_count FROM customer
 GROUP BY store_id;
 
 -- stores that had more than 300 customers
