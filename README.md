@@ -38,6 +38,6 @@ The database DvdRental has 15 tables. Below are the different tables and a brief
 
 <br>
 
-### Entity Relationship Diagram
+## Entity Relationship Diagram
 
 ![](./doc/erd.jpg "ERD")
