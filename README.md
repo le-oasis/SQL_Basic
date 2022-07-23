@@ -37,8 +37,7 @@ We will use the DVD rental database to demonstrate the features of PostgreSQL.
 - `SUM()` 
 - `MAX()`
 - `MIN()`
-- `COUNT()`
- statements to query our database.
+- `COUNT()`  to query our database.
 
 ### Data Dictionary
 The database DvdRental has 15 tables. Below are the different tables and a brief description of them.
