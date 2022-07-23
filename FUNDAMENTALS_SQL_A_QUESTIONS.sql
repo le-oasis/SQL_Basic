@@ -1,3 +1,4 @@
+-- Hello World --
 -- Welcome to the Oasis --
 -- Today's lesson is SQL fundamentals --
 -- You have been given a set of Queries (Q) to answer below.

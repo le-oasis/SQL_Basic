@@ -1,3 +1,4 @@
+-- Hello World --
 -- Welcome to the Oasis --
 -- We're going to be learning GROUP BY & Aggregate Functions in SQL --
 ---------------------------------------------------------------------------

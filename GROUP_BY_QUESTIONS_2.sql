@@ -1,3 +1,4 @@
+-- Hello World --
 -- Welcome to the Oasis --
 -- This lecture contains challenge tasks for the group by section of the course.
 ---------------------------------------------------------------------------
