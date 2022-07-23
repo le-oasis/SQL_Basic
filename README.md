@@ -13,7 +13,7 @@ We will use the DVD rental database to demonstrate the features of PostgreSQL.
 
 
 ## Project Scope
-###Part 1: SQL FUNDAMENTALS
+### Part 1: SQL FUNDAMENTALS
 * This section will be your introdcution to SQL, this will include SELECT, WHERE, LIMIT functions
 * This comes with question and answers
 * It's advised to tackle the questions first then head towards checkin your queries against the answers.
@@ -36,10 +36,3 @@ The database DvdRental has 15 tables. Below are the different tables and a brief
 * address — stores address data for staff and customers
 * city — stores the city names.
 * country — stores the country names.
-
-
-
-
-
-
-
