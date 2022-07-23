@@ -13,10 +13,32 @@ We will use the DVD rental database to demonstrate the features of PostgreSQL.
 
 
 ## Project Scope
-### Part 1: SQL FUNDAMENTALS
-* This section will be your introdcution to SQL, this will include the use of `SELECT` , `DISTINCT` , `COUNT` , `WHERE` , `LIMIT` , `IN` , `LIKE`,  `ORDER BY` &  `BETWEEN` statements to query our databse.
-* This comes with question and answers
+* Project comes with a sample database that you can use for learning and practicing PostgreSQL.
+* This project is written in PostgreSQL, it comes with queries that you can use to learn about PostgreSQL.
+* Q&A format.
 * It's advised to tackle the questions first then head towards checkin your queries against the answers.
+
+### Part 1: SQL FUNDAMENTALS
+* This section will be your introdcution to SQL, this will include the use of:
+- `SELECT` 
+-  `DISTINCT`
+- `COUNT`
+- `WHERE`
+- `LIMIT` 
+- `IN` 
+- `LIKE`
+-  `ORDER BY` & 
+- `BETWEEN` statements to query our database.
+
+
+### Part 2: GROUP BY STATEMENTS
+* This section will be an in depth look at the `GROUP BY` statement, along with the following aggregate functions: 
+- `AVG()`
+- `SUM()` 
+- `MAX()`
+- `MIN()`
+- `COUNT()`
+ statements to query our database.
 
 ### Data Dictionary
 The database DvdRental has 15 tables. Below are the different tables and a brief description of them.
