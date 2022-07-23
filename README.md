@@ -18,8 +18,7 @@ We will use the DVD rental database to demonstrate the features of PostgreSQL.
 * This comes with question and answers
 * It's advised to tackle the questions first then head towards checkin your queries against the answers.
 
-
-## Data-Set
+### Data Dictionary
 The database DvdRental has 15 tables. Below are the different tables and a brief description of them.
 
 * actor — contains actors data including first name and last name.
@@ -36,3 +35,9 @@ The database DvdRental has 15 tables. Below are the different tables and a brief
 * address — stores address data for staff and customers
 * city — stores the city names.
 * country — stores the country names.
+
+<br>
+
+### Entity Relationship Diagram
+
+![](./doc/erd.jpg "ERD")
