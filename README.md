@@ -14,7 +14,7 @@ We will use the DVD rental database to demonstrate the features of PostgreSQL.
 
 ## Project Scope
 ### Part 1: SQL FUNDAMENTALS
-* This section will be your introdcution to SQL, this will include `SELECT` , `DISTINCT` , `COUNT` , `WHERE` , `ORDER BY` , `LIMIT` , `IN` , `LIKE` &  `BETWEEN` functions
+* This section will be your introdcution to SQL, this will include `SELECT` , `DISTINCT` , `COUNT` , `WHERE` , `LIMIT` , `IN` , `LIKE`,  `ORDER BY` &  `BETWEEN` functions
 * This comes with question and answers
 * It's advised to tackle the questions first then head towards checkin your queries against the answers.
 
