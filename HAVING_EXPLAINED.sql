@@ -59,3 +59,18 @@
 -- FROM ___
 -- GROUP BY company (that's the per!)
 --------------------------------------------------------------------------------------------------------------------------
+
+-- Having comes after GROUP BY
+SELECT customer_id, SUM(amount) FROM payment
+GROUP BY customer_id
+HAVING SUM(amount) > 100
+ORDER BY SUM(amount) DESC;
+
+
+-- customers with >= 40 payments
+SELECT * FROM payment;
+
+SELECT customer_id,  -- customer column
+COUNT(*) FROM payment  -- count the payment table
+GROUP BY customer_id  -- group by customer_id
+HAVING COUNT(*) >= 40;   -- where payment >= 40
